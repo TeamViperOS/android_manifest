@@ -7,7 +7,7 @@
   </project>
   <project path="bootable/recovery" name="android_bootable_recovery" groups="pdk" remote="viper" />
   <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="viper" />
-  <project path="manifest" name="android_manifest" remote="viper" />
+  <project path="manifest" name="manifest" remote="viper" />
 
 <!-- External -->
   <project path="external/google" name="android_external_google" groups="pdk-fs" remote="viper" />
